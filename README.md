@@ -6,9 +6,9 @@
 ####  [Українська мова](#UKR)  
 
 ## Gimme 0.15
-- [PHP7](https://github.com/ClearSkyTeam/ClearSky/tree/php7-0.15)
-- [PHP5](https://github.com/ClearSkyTeam/ClearSky/tree/php5-0.15)
-- Phar: Compile it yourself. (Our jenkins is broken @Aodzip go fix it.)
+- [PHP7branch](https://github.com/ClearSkyTeam/ClearSky/tree/php7-0.15)
+- [PHP5branch](https://github.com/ClearSkyTeam/ClearSky/tree/php5-0.15)
+- Phar: [ClearSkyTeam/ClearSkyPhar](https://github.com/ClearSkyTeam/ClearSkyPhar)
 
 # <a name="ENG"></a>English  
 # We present you: ClearSky-Sunrise ~ A [PM](https://github.com/PocketMine/PocketMine-MP) fork (PHP5+7) 
@@ -19,8 +19,11 @@ An ultra fast PocketMine based Minecraft:PE 0.14.3 multiplayer software with sta
 **Jenkins Build Status** [![Build Status](http://jenkins.clearskyteam.org/buildStatus/icon?job=ClearSky)](http://jenkins.clearskyteam.org/job/ClearSky/ "Jenkins Build Status")
 
 ## Where can I get a phar?
- - You can get an auto build phar here: [Jenkins CI](http://jenkins.clearskyteam.org/).
- - You can get an optimized PHP environment here: [ClearSkyTeam/PHPbinary](https://github.com/ClearSkyTeam/PHPbinary).
+ - You can get some phars from here [ClearSkyTeam/ClearSkyPhar](https://github.com/ClearSkyTeam/ClearSkyPhar)
+
+[//]: # (You can get an auto build phar here: [Jenkins CI](http://jenkins.clearskyteam.org/).)
+
+ - You can get an optimized PHP environment here: [ClearSkyTeam/PHPbinary](https://github.com/ClearSkyTeam/ClearSkyPhar#BIN).
  - You can get a Multicraft config demo here: [ClearSkyTeam/MulticraftConfig](https://github.com/ClearSkyTeam/MulticraftConfig).
 
 ## Is there a PHP7 version?
